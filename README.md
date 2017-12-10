@@ -1,6 +1,6 @@
 https://categoryhn.firebaseapp.com
 
-A experimental project of classifying Hacker News stories topic to different categories.
+An experimental project of classifying Hacker News stories topic to different categories.
 
 ![demo](demo.jpg)
 
