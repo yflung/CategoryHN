@@ -1,0 +1,15 @@
+.navbar-brand, .navbar-toggler, .nav-link {
+  color: white;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+  color: grey;
+}
+
+.navbar-brand:active, .nav-link:active {
+  color: white;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+}

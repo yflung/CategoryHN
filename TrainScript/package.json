@@ -1,0 +1,12 @@
+{
+  "name": "trainscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "natural": "^0.5.4",
+    "node-fetch": "^1.7.3"
+  }
+}
